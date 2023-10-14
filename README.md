@@ -1,4 +1,6 @@
 Python scripts for fitting and simulating NMR CEST data
+Can perform global fits of CEST data on multiple nuclei with 
+shared parameters
 
 Dependencies - numpy, pandas, uncertainties, scipy, matplotlib, nmrglue
 
